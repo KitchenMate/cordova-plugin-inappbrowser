@@ -1,5 +1,5 @@
 {
-  "name": "cordova-plugin-inappbrowser",
+  "name": "@kitchenmate/cordova-plugin-inappbrowser",
   "version": "3.2.1-dev",
   "description": "Cordova InAppBrowser Plugin",
   "types": "./types/index.d.ts",
